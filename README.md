@@ -1,1 +1,1 @@
-# ck2
+# tickety-magic
